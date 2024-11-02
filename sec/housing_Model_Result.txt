@@ -1,0 +1,2 @@
+Model Score: 0.9509870524488346
+Mean Absolute Error: 15483.967235294118
